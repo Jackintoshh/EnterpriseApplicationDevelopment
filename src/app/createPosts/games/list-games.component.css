@@ -1,0 +1,13 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+  width: 50%;
+}
+
+.info-text {
+  text-align: center;
+}
+
+mat-accordian {
+  width: 50%;
+}
